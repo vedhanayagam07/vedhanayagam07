@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-- name: generate-snake-game-from-github-contribution-grid
-  uses: Platane/snk@v3.5.0
+
 <!--
 **vedhanayagam07/vedhanayagam07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
