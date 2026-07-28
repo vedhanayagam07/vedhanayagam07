@@ -54,6 +54,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  <img src="./assets/banner.png" width="100%" alt="Cyberpunk Banner"/>
 <p align="center">
   <img src="https://raw.githubusercontent.com/vedhanayagam07/vedhanayagam07/output/github-snake-dark.svg" alt="Snake animation" />
 </p>
+
