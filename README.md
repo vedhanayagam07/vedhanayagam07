@@ -16,7 +16,11 @@
 <img src="./assets/banner.png" width="100%" alt="Cyberpunk Banner"/>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Engineer;Machine+Learning+Developer;AWS+%7C+Docker+%7C+Kubernetes;Flutter+Developer;Always+Learning+New+Things+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Engineer;Machine+Learning+Developer;AWS+%7C+Docker+%7C+Kubernetes;Flutter+Developer;Always+Learning+New+Things" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vedhanayagam07/vedhanayagam07/output/github-snake-dark.svg" alt="Snake Animation" />
 </p>
 <p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00C6FF,100:0072FF&text=Jackson%20V%20Goldwin%20T%20S%20R&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
@@ -42,8 +46,6 @@
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=vedhanayagam07&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </p>
-<!--
-**vedhanayagam07/vedhanayagam07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
