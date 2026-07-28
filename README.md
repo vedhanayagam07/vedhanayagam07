@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Jackson</h1>
 ## 🚀 About Me
 
@@ -13,6 +12,9 @@
 🌐 Full Stack Developer
 
 🏗 Building AI-powered SaaS Applications
+
+<img src="./assets/banner.png" width="100%" alt="Cyberpunk Banner"/>
+
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Engineer;Machine+Learning+Developer;AWS+%7C+Docker+%7C+Kubernetes;Flutter+Developer;Always+Learning+New+Things+🚀" />
 </p>
@@ -53,9 +55,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-  <img src="./assets/banner.png" width="100%" alt="Cyberpunk Banner"/>
-<p align="center">
+--><p align="center">
   <img src="https://raw.githubusercontent.com/vedhanayagam07/vedhanayagam07/output/github-snake-dark.svg" alt="Snake animation" />
 </p>
 
