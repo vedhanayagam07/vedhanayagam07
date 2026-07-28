@@ -7,6 +7,10 @@
 <p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00C6FF,100:0072FF&text=Jackson%20Vedhanayagam&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,flutter,react,nextjs,aws,docker,kubernetes,git,github,mysql,mongodb,firebase,tensorflow,vscode&perline=8"/>
+</p>
 <!--
 **vedhanayagam07/vedhanayagam07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
