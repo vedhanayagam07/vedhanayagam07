@@ -1,5 +1,9 @@
 ## Hi there 👋
+<h1 align="center">Hi 👋, I'm Jackson</h1>
 
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Engineer;Machine+Learning+Developer;AWS+%7C+Docker+%7C+Kubernetes;Flutter+Developer;Always+Learning+New+Things+🚀" />
+</p>
 
 <!--
 **vedhanayagam07/vedhanayagam07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
