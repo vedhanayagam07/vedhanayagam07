@@ -45,7 +45,4 @@
 <img src="https://github-profile-trophy.vercel.app/?username=vedhanayagam07&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </p>
 
---><p align="center">
-  <img src="https://raw.githubusercontent.com/vedhanayagam07/vedhanayagam07/output/github-snake-dark.svg" alt="Snake animation" />
-</p>
 
