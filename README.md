@@ -14,7 +14,7 @@
 🏗 Building AI-powered SaaS Applications
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Engineer;Machine+Learning+Developer;AWS+%7C+Docker+%7;Flutter+Developer;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Enabled+Engineer;Machine+Learning;AWS+%7C+Docker;Flutter;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
 <p align="center">
